@@ -1,0 +1,127 @@
+@media ( max-width:767px ) {
+    .hero_banner h1{
+        font-size: 34px;
+        line-height: 40px;
+
+    }
+    .subscribe-box p{
+        padding: 0 20px;
+    }
+    .hero_banner p{
+        padding: 0px 20px;
+        text-align: center;
+        font-size: 15px;
+
+    }
+    .hero_banner img{
+        width: 150px;
+        margin-top: 175px;
+    }
+    .arrow p{
+        display: none;
+    }
+    .arrow a img{
+        margin-top: 10px;
+        width: 29px;
+    }
+    .title-section{
+        padding: 40px 20px;
+    }
+    .title-box span{
+        letter-spacing: 2px;
+        font-size: 16px;
+    }
+    .title-box h2{
+        font-size: 30px;
+        margin: 7px 0 15px;
+    }
+    .title-box p {
+        font-size: 15px;
+    }
+    .col-1-2{
+        flex-basis: 100%;
+        max-width: 100%;
+    }
+    .feature-content{
+        text-align: center;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 20px;
+    }
+    .feature-content image img{
+        max-width: 80%;
+
+    }
+    .feature-content h3{
+        font-size: 30px;
+        padding: 10px 10px 10px 10px;
+    }
+    .flex-colm{
+        flex-direction: column-reverse;
+    }
+    feature-content a{
+        font-size: 15px;
+    }
+    .fullwidth-section{
+    
+    }
+    .fullwidth-section img{
+        width: 500px;
+    }
+    .f-w-s-content h3{
+        font-size: 20px;
+        margin: 10px 10px 10px 10px;
+        text-align: center;
+    }
+    .f-w-s-content p{
+        font-size: 14px;
+        margin: 10px 10px 20px;
+    }
+    .f-w-s-content span{
+    text-align: center;
+    letter-spacing: 2px;
+    }
+    .f-w-s h3{
+        font-size: 30px;
+        padding: 15px;
+    }
+    .f-w-s p{
+        font-size: 19px;
+        padding-bottom: 15px;
+    }
+    .subscribe-box h3{
+        font-size: 20px;
+        padding: 20px;
+        margin: 10px 10px;
+    }
+    .subscribe-box p{
+        font-size: 20px;
+        padding: 20px 20px 10px;
+    }
+    .copyright p{
+        font: 10px;
+    
+    }
+    form input[ type=email] {
+        padding: 10px 10px;
+    }
+    .f-w-s-2 img{
+        width: 75%;
+
+    }.apps-link li a img{
+        padding-bottom: 20px;
+        width: 85px%;
+    }
+
+    
+
+}
+    
+    
+
+    
+    
+    
+
+
